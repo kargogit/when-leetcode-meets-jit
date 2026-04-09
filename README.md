@@ -11,7 +11,7 @@ Every classic LeetCode problem re-imagined as a real systems programming challen
 - **Trapping Rain Water** -> Heap fragmentation & GC compaction
 - **Merge K Sorted Lists** -> VTable / MRO resolution
 - **Course Schedule** -> Circular dependency detection in module loading
-- ...and 96 more
+- ...and more
 
 Made with pure boredom + love for PATCG.
 
